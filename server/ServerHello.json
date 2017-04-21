@@ -2,6 +2,6 @@
   "id": 20100,
   "name": "ServerHello",
   "fields": [
-    {"name": "sessionKey", "type": "STRING"}
+    {"name": "sessionKey", "type": "BYTESET"}
   ]
 }
