@@ -1,0 +1,7 @@
+{
+  "id": 24411,
+  "name": "AvatarStream",
+  "fields": [
+    {"type": "BYTE"}
+  ]
+}

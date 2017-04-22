@@ -7,6 +7,7 @@
     {"name": "timeStamp", "type": "LONG"},
     {"type": "INT"},
     {"type": "INT"},
-    {"type": "INT"}    
+    {"type": "INT"},
+    {"name": "staticData", "type": "STATIC"}
   ]
 }
